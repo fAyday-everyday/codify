@@ -25,5 +25,5 @@ if (answer === '4') {
 
 alert('you got ' + point + ' points');
 
-///asd
+
 
